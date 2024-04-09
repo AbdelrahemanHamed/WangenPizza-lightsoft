@@ -1,0 +1,51 @@
+.section5{
+    width: 100%;
+    margin: auto;
+    padding: 0rem 5rem 6rem 4rem;
+
+}
+.dark-mode.section5{
+    background-color: black;
+}
+.right-side-section5{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+ 
+}
+.left-side-section5{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    top: 200px;
+}
+
+.logo-section5 img{
+    width: 127px;
+    height: 82px;
+    transform: rotate(-11.81deg);
+
+
+}
+.logo-section5 h1{
+    font-size: 100px;
+    font-weight: 700;
+    font-family: Inter;
+    line-height: 121.02px;
+    text-transform: capitalize;
+    text-align: start;
+    position: absolute;
+    left: 65px;
+    top: 50px;
+}
+.logo-section5 .second-title{
+    position: absolute;
+    left: 152px;
+    top: 180px;
+}
+
+.card-left-side{
+    position: relative;
+    top: 572px;
+}

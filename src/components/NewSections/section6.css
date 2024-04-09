@@ -1,0 +1,38 @@
+.section6{
+    width: 100%;
+    margin: auto;
+    height: 95vh;
+    background-image: url(../../images//background/section6\ bg.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 10px;
+}
+.content-section6{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.content-section6 h1{
+    color: white;
+    font-size: 100px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 87.5px;
+   
+    text-align: start;
+width: 637px;
+height: 176px;
+margin-left: 150px;
+}
+.content-section6 p{
+    width: 597px;
+    height: 110px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgba(255, 254, 254, 1);
+    margin-left: 150px;
+}
